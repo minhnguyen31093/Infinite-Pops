@@ -12,7 +12,8 @@
 
 ## Limitations
 
-- Not support request Time Out case
+- FAN image loading is slow
+- Still not support request time out case
 
 
 <image src="https://raw.githubusercontent.com/minhnguyen31093/Infinite-Pops/master/image.gif" width="360"/>
